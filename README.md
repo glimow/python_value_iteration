@@ -1,6 +1,6 @@
-# ROB311 TP2: Utility function of simple MDP
+# ROB311: Utility function of simple MDP
 
-This repository contains an MDP Utility function for ROB311's TP2 at ENSTA ParisTech.
+This repository contains an MDP Utility function for ROB311's project at ENSTA ParisTech.
 It is separated into two files:
 
 - `value_iteration.py`, that contains a quickly unit-tested implementation of the Value Iteration Algorithm.
